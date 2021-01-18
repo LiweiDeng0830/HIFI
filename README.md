@@ -1,7 +1,7 @@
 # HIFI: Unsupervised Anomaly Detection for Multivariate Time Series with High-order Feature Interactions
 
 ## Datasets Discription
-In the paper, three datasets **MSL**, **SMAP** and **SMD** are used. Due to the memery limit of Github, we only put some samples in <kbd>/data/ServiceMachineDataset</kbd> which are the subset of **SMD**.  
+In the paper, three datasets **MSL**, **SMAP** and **SMD** are used. Due to the memery limit of Github, we only put some samples in <kbd>/data/ServiceMachineDataset</kbd> which are a portion of **SMD**.  
 
 The whole three datasets can be found in https://github.com/NetManAIOps/OmniAnomaly.
 
