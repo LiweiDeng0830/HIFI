@@ -26,6 +26,9 @@ For example, if you want to run on **SMD** dataset, you can use the following st
 
 ```
 Step1: Put the whole dataset in /data/ which can be download from OmniAnomaly rep.
-Step2: Change the datapath in run_SMD.sh if they are not right.
+Step2: Change the datapath in run_SMD.sh if they are not right such as 
+    train_dir="./data/ServerMachineDataset/train/"
+    test_dir="./data/ServerMachineDataset/test/"
+    test_label_dir="./data/ServerMachineDataset/test_label/"
 Step3: run the bash script as shown in before.
 ```
