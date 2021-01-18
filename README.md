@@ -20,7 +20,7 @@ To run on the samples, the following command can be used.
 sh run_SMD.sh
 ```
 
-To reproduce the results stated in the paper, you put the whole dataset in <kbd>/data/</kbd> and set the correct data path in bash scripts, i.e. run_SMD.sh, run_MSL.sh or run_SMAP.sh. 
+To reproduce the results stated in the paper, you should put the whole dataset in <kbd>/data/</kbd> and set the correct data path in bash scripts, i.e. run_SMD.sh, run_MSL.sh or run_SMAP.sh. 
 
 For example, if you want to run on **SMD** dataset, you can use the following steps.
 
