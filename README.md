@@ -5,6 +5,14 @@ In the paper, three datasets **MSL**, **SMAP** and **SMD** are used. Due to the 
 
 The whole three datasets can be found in https://github.com/NetManAIOps/OmniAnomaly.
 
+The statistic of the datasets are shown in this table.
+
+|Dataset Name|No. of Subsets|No. of Dimensions|Training Set Size|Test set Size|Anomaly Ratio(%) in Test Set|
+|----|----|----|----|----|----|
+|MSL|27|55|58317|73729|10.72|
+|SMAP|55|25|135183|427617|13.13|
+|SMD|27|38|708405|708420|4.16|
+
 ## Usage
 To run on the samples, the following command can be used.
 
