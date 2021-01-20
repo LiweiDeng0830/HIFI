@@ -1,7 +1,7 @@
 from torch import optim
 import torch
 import os
-from transformers import HfArgumentParser, set_seed
+from transformers import HfArgumentParser
 from pprint import pprint
 
 from SMDconfig import Config
